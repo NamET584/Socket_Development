@@ -16,6 +16,8 @@ cmake .. \
     -DCMAKE_CXX_COMPILER="g++" 
 
 echo "🔨 Compiling project..."
+
+echo "number of processes: $(nproc)"
 make -j$(nproc)
 
 if [ $? -ne 0 ]; then
