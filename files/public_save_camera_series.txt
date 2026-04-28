@@ -1,0 +1,37 @@
+CÁC DÒNG CAMERA AI PHỤC VỤ AN NINH CÔNG CỘNG: 
+
+*Giá thành có thể được đội lên rất nhiều (gấp 2-3) nếu muốn hoạt động full công suất, vì cần thêm đầu ghi chuyên dụng (NVR AI) và hệ thống đường truyền cáp quang tốc độ cao*
+
+1. Hikvision iDS-2CD7 Series (DeepinView)  - Trung Quốc
+- Chip: HiSilicon (thuộc Huawei) hoặc chip chuyên dụng do Hikvision tự thiết kế dựa trên kiến trúc của Intel Movidius hoặc NVIDIA.
+- Giá thành: 12.000.000đ – 25.000.000đ 
+- Tính năng nổi bât:
+ + nhận diện khuôn mặt và phân tích thuộc tính người tại các cửa khẩu, sân bay.
+ + chip AI riêng để chạy các thuật toán Deep Learning cực nặng ngay trên camera mà không cần máy chủ xử lý.
+ + Chip này tích hợp sẵn NPU (Neural Processing Unit) với hiệu năng tính toán cao (thường từ 2.0 TOPS trở lên), cho phép chạy song song nhiều thuật toán như: nhận diện khuôn mặt, đếm người và phân tích phương tiện cùng một lúc.
+ - Link giới thiệu sản phẩm: https://www.hikvision.com/vn/products/IP-Products/Network-Cameras/DeepinView-Series/?category=S%E1%BA%A3n+ph%E1%BA%A9m+m%E1%BA%A1ng&subCategory=Camera+m%E1%BA%A1ng&series=DeepinView+Series&checkedSubSeries=NONE
+ - Video giới thiệu sản phẩm: https://www.youtube.com/watch?v=yJ9okURWUOQ
+ 
+2. Axis Q6315-LE   -  Thụy Điển
+- Chip: ARTPEC-7 hoặc ARTPEC-8 (do chính Axis Communications thiết kế).
+- Giá thành: 95.000.000đ – 115.000.000đ.
+- Tính năng nổi bật:
+ + chip này cực mạnh trong việc xử lý Lightfinder 2.0 (chụp đêm có màu) và nén dữ liệu Zipstream, giúp giữ lại các chi tiết AI quan trọng trong khi vẫn giảm băng thông bộ nhớ.
+ + Khả năng Zoom quang học 31x cực kỳ sắc nét.
+ + Tích hợp Laser Focus: Lấy nét bằng tia laser nhanh hơn mắt người, ngay cả trong đêm tối hoàn toàn.
+ + Chịu được thời tiết khắc nghiệt và đạt tiêu chuẩn bảo mật của Châu Âu.
+ - Link giới thiệu sản phẩm: https://www.axis.com/products/axis-q6315-le/support
+ - Video giới thiệu sản phẩm: https://www.youtube.com/watch?v=ywO2KZ-s5vg
+ 
+3.  Avigilon H5A - Mỹ 
+- Chip:  Ambarella CV-Series 
+- Giá thành: 18.000.000đ – 45.000.000đ 
+- Tính năng nổi bật:
+ + khả năng tìm kiếm lịch sử phát hiện người hoặc vật. Độ chính xác cực cao trong phân khúc
+ + Nó sử dụng kiến trúc CVflow giúp tăng tốc các thuật toán Deep Learning --> tính năng "Appearance Search" của Avigilon có thể phân tích và phân loại đối tượng cực nhanh với độ chính xác rất cao.
+ - Link giới thiệu sản phẩm: https://www.avigilon.com/security-cameras/h5a-multisensor
+ - Video giới thiệu sản phẩm: https://www.youtube.com/watch?v=AKqK4i8aOXI
+     + Appearance Search: https://www.youtube.com/watch?v=wkjErD3Ja7s 
+     
+     
+ -Nam-

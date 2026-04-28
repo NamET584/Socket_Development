@@ -1,0 +1,2 @@
+/home/hoainam0508/Documents/BTL_MMT/install/./server
+/home/hoainam0508/Documents/BTL_MMT/install/./client

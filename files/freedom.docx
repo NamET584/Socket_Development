@@ -1,0 +1,15 @@
+Yes, you can use Claude AI on Linux. While there is no official Anthropic-built desktop app, you can use a high-quality community-driven Electron app (via Snap or AUR) for a native desktop experience, or install the Claude Code terminal CLI. 
+Best Ways to Get Claude on Linux:
+Claude Desktop (AppImage/Snap): An unofficial Electron-based app providing a fast, native-like interface with desktop notifications.
+Claude Code (Terminal/CLI): For developers, this terminal-based agent provides direct access to local files. Install on Ubuntu/Debian/WSL using: curl -fsSL https://claude.ai/install.sh | bash.
+AUR Packages (Arch Linux): Use yay -S claude-desktop-appimage.
+Debian/Ubuntu/Mint: Community-maintained debian packages exist for native integration. 
+Claude
+Claude
+ +4
+Important Notes:
+Claude Code Requirements: The CLI tool requires a Pro, Team, or Enterprise subscription.
+Platform Support: The terminal CLI supports Debian 10+, Ubuntu 20.04+, and Alpine Linux 3.19+. 
+Claude
+Claude
+ +1

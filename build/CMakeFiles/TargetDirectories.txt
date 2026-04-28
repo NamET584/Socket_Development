@@ -1,0 +1,8 @@
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/server.dir
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/client.dir
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/edit_cache.dir
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/rebuild_cache.dir
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/list_install_components.dir
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/install.dir
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/install/local.dir
+/home/hoainam0508/Documents/BTL_MMT/build/CMakeFiles/install/strip.dir
