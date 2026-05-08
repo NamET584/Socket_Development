@@ -1,4 +1,4 @@
-🚀 BTL Mạng Máy Tính: Truyền File Qua Socket TCP (C++17)
+
 Dự án minh họa cơ chế truyền nhiều file tuần tự từ Client lên Server bằng Socket TCP trên Linux.
 
 🛠 Công nghệ & Cấu trúc
